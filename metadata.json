@@ -1,0 +1,8 @@
+{
+  "name": "Leadforte Brokers",
+  "description": "A high-end insurance brokerage platform for Nigeria, providing seamless policy management, claims processing, and an AI-powered insurance assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
